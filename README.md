@@ -1,2 +1,2 @@
 # hello-world
-test test test.
+Following a guide. Not terribly sure what's happening. 
